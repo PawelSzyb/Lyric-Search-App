@@ -1,6 +1,6 @@
 # Lyric Search App
 
-Create with tutorial by Traversy Media with React context API.
+Created with tutorial by Traversy Media (React context API).
 
 Run
 ```
